@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "improveyourhabits.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Improve Your Habits",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
